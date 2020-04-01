@@ -5,6 +5,6 @@ def countdown(n)
     sleep(5)
   n -= 1  
 end
-return "HAPPY NEW YEAR!"
+ "HAPPY NEW YEAR!"
 end
 
