@@ -7,8 +7,4 @@ end
 return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(seconds)
-  while seconds >= 5
-  sleep (0.5)
-  end
-end  
+countdown(1) 
